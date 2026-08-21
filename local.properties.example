@@ -1,0 +1,5 @@
+# Android SDK 路径由 Android Studio 在本机生成，请勿提交真实本机路径。
+sdk.dir=/path/to/Android/sdk
+
+# 在高德开放平台申请 Android 平台 Key，绑定本项目包名和签名 SHA1。
+AMAP_API_KEY=your_android_amap_key
